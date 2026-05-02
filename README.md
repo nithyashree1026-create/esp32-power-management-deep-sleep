@@ -13,3 +13,5 @@ Firmware is loaded from external flash
 Application execution begins
 
 **🔹 Strapping Pins:**
+
+Certain GPIO pins determine boot mode:
