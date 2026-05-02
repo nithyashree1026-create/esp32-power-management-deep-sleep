@@ -15,3 +15,5 @@ Application execution begins
 **🔹 Strapping Pins:**
 
 Certain GPIO pins determine boot mode:
+
+GPIO0 → Flash/Download mode
