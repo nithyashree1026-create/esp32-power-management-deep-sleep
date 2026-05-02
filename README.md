@@ -1,1 +1,1 @@
-
+## ⚡ Boot Process & Startup Behavior
