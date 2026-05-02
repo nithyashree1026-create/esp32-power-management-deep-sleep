@@ -17,3 +17,5 @@ Application execution begins
 Certain GPIO pins determine boot mode:
 
 GPIO0 → Flash/Download mode
+
+GPIO2, GPIO15 → Boot configuration
