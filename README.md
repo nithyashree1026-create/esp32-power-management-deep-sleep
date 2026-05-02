@@ -127,3 +127,19 @@ Calibration using reference values
 Averaging multiple readings
 
 External ADC for precision
+
+## 🔌 Hardware Design Considerations
+
+Proper hardware design ensures stable ESP32 performance.
+
+**🔹 Key Points:**
+
+Use stable 3.3V regulated power supply
+
+Avoid floating GPIO pins
+
+Add decoupling capacitors
+
+**🔹 Insight:**
+
+Most ESP32 failures are due to poor power design, not software issues.
