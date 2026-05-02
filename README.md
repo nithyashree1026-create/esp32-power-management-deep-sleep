@@ -47,3 +47,7 @@ Application firmware
 OTA partitions
 
 File system (SPIFFS/LittleFS)
+
+**🔹 Engineering Benefit:**
+
+Supports OTA updates and modular firmware design.
