@@ -9,3 +9,5 @@ Power-on reset initializes system hardware
 Bootloader is executed from internal ROM
 
 Firmware is loaded from external flash
+
+Application execution begins
