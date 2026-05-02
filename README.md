@@ -11,3 +11,6 @@ Bootloader is executed from internal ROM
 Firmware is loaded from external flash
 
 Application execution begins
+
+**Strapping Pins:**
+
