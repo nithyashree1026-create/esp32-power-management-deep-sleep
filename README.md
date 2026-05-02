@@ -35,3 +35,15 @@ DRAM → Data storage
 IRAM → Instruction execution
 
 RTC Memory → Retained during deep sleep
+
+**🔹 Partition Table:**
+
+Defines how flash memory is divided:
+
+Bootloader
+
+Application firmware
+
+OTA partitions
+
+File system (SPIFFS/LittleFS)
