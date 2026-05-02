@@ -26,3 +26,4 @@ Improper configuration of strapping pins can prevent ESP32 from booting correctl
 
 ## 🧠 Memory Management & Partitioning
 
+ESP32 uses a flexible memory architecture for efficient resource utilization.
