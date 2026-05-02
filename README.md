@@ -87,3 +87,23 @@ Disconnect Wi-Fi when not needed
 **🔹 Practical Insight:**
 
 Efficient Wi-Fi usage significantly improves battery life in IoT systems.
+
+## ⚡ Interrupt Handling System
+
+ESP32 supports both hardware and software interrupts.
+
+**🔹 Features:**
+
+Low latency interrupt response
+
+Multiple interrupt sources
+
+Priority-based handling
+
+**🔹 Use Cases:**
+
+Sensor triggers
+
+Real-time event handling
+
+Communication signals
