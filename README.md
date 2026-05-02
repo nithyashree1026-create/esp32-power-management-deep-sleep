@@ -107,3 +107,23 @@ Sensor triggers
 Real-time event handling
 
 Communication signals
+
+## 🧩 ADC Limitations & Calibration
+
+ESP32 ADC is powerful but has practical limitations.
+
+**🔹 Challenges:**
+
+Non-linear readings
+
+Noise interference
+
+Voltage fluctuation
+
+**🔹 Solutions:**
+
+Calibration using reference values
+
+Averaging multiple readings
+
+External ADC for precision
