@@ -51,3 +51,15 @@ File system (SPIFFS/LittleFS)
 **🔹 Engineering Benefit:**
 
 Supports OTA updates and modular firmware design.
+
+## 🔄 OTA (Over-The-Air) Updates
+
+OTA allows firmware updates without physical access to the device.
+
+**🔹 Working Principle:**
+
+New firmware is downloaded via Wi-Fi
+
+Stored in alternate flash partition
+
+System switches to updated firmware
