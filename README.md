@@ -71,3 +71,19 @@ Remote device maintenance
 Reduced downtime
 
 Scalable deployment
+
+## 📶 Wi-Fi Power Optimization Strategies
+
+Wi-Fi is one of the most power-consuming features in ESP32.
+
+**🔹 Optimization Techniques:**
+
+Reduce transmission frequency
+
+Use modem sleep mode
+
+Disconnect Wi-Fi when not needed
+
+**🔹 Practical Insight:**
+
+Efficient Wi-Fi usage significantly improves battery life in IoT systems.
