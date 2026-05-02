@@ -19,3 +19,7 @@ Certain GPIO pins determine boot mode:
 GPIO0 → Flash/Download mode
 
 GPIO2, GPIO15 → Boot configuration
+
+**🔹 Insight:**
+
+Improper configuration of strapping pins can prevent ESP32 from booting correctly, making hardware design critical.
