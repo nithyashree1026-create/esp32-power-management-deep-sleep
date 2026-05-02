@@ -12,5 +12,4 @@ Firmware is loaded from external flash
 
 Application execution begins
 
-**Strapping Pins:**
-
+**🔹 Strapping Pins:**
